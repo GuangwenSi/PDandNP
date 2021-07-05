@@ -3,4 +3,4 @@
 - 文件 pandas学习.ipynb 文件为练习题，其使用的数据为 James_Harden.csv 
 - [知乎地址](Pandas  练习 - 追风的文章 - 知乎
 https://zhuanlan.zhihu.com/p/382353426)
-- 文件pandas实战.ipynb 文件为对具体的数据集进行操作，其使用的数据为exercise_data
+- 文件pandas实战.ipynb 文件为对具体的数2据集进行操作，其使用的数据为exercise_data
